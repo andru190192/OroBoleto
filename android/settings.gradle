@@ -1,0 +1,3 @@
+rootProject.name = 'OroBoleto'
+
+include ':app'

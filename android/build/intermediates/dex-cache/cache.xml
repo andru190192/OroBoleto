@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\development\android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1-b2d21bfeca5caec76cf748b912f28ff30b95e0f6.jar" />
+    </item>
+    <item
+        jar="C:\development\react-native\OroBoleto\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.40.0\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-8bdea6e3fadc6ef70f3dfac4343dac2989946a67.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1-897eafcf58da766b667968de2b01b5de6baf1293.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-798d5e8f83f985c3cda95efa4f48b6d6ca48dfc7.jar" />
+    </item>
+    <item
+        jar="C:\development\react-native\OroBoleto\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.40.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2d74afead061bfd6dda3c18734ebcf3fe0d84a7c">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\classes-ce42e9bb2ba045c89174771a6a1e877d54ada686.jar" />
+    </item>
+    <item
+        jar="C:\development\react-native\OroBoleto\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\classes-c6b6729369244113f839900843fdca4bf1c7161f.jar" />
+    </item>
+    <item
+        jar="C:\development\react-native\OroBoleto\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\classes-b7c7318fd2ea192f68faf96dc7b0ce66823210ae.jar" />
+    </item>
+    <item
+        jar="C:\development\m2\javax\inject\javax.inject\1\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\javax.inject-1-572ea974b1c8930c6642d8b2605dedb787e5ea02.jar" />
+    </item>
+    <item
+        jar="C:\development\react-native\OroBoleto\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\classes-f9e06bc81a635d927cbfd4fe78dad81a46b506e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0-7468affc8d710372781b30c62f2d02c46cc7e453.jar" />
+    </item>
+    <item
+        jar="C:\development\react-native\OroBoleto\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1-3db550d43fa244075d551c3832ecb6bb6e316381.jar" />
+    </item>
+    <item
+        jar="C:\development\react-native\OroBoleto\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\classes-43d5b8dcd901403464c1381ada816ee404b5e1c1.jar" />
+    </item>
+    <item
+        jar="C:\development\react-native\OroBoleto\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\classes-183131d0ef6aad2797f69a0d6f64a2b13044e7f3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-afbc97dcc91cba7d2c5206aa4a8214327023d84c.jar" />
+    </item>
+    <item
+        jar="C:\development\react-native\OroBoleto\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\classes-cf5df45db28db027de3430d1a792992245ffe9e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1-84d43baf07e27e33cc78ed666a66545b2803d1f2.jar" />
+    </item>
+    <item
+        jar="C:\development\react-native\OroBoleto\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\classes-abd4283b407e78337e30d01348b0257b0334714e.jar" />
+    </item>
+    <item
+        jar="C:\development\react-native\OroBoleto\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\classes-7b0bd68f41542b86689a0b32bb169bb51575a237.jar" />
+    </item>
+    <item
+        jar="C:\development\react-native\OroBoleto\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\classes-5a0ad810d1f17a13e079018099c0635f04c065fc.jar" />
+    </item>
+    <item
+        jar="C:\development\react-native\OroBoleto\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\classes-d0703cfa7d1609ba54d691f75ae0568fe7d96266.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1-8d77e91a1b7444247daf23ac46e8e9605e5a4f27.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andres\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\development\react-native\OroBoleto\android\app\build\intermediates\pre-dexed\debug\library-2.4.0-64dbd4ddbe701a19ad09c761af77717c43b45cfb.jar" />
+    </item>
+
+</items>
